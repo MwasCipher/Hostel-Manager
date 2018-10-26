@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hostel Manager</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_reg_number">Enter Reg. Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_id_number">Enter ID Number</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

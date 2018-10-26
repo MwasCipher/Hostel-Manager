@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683580793211",
+    "firebase_url": "https://hostel-manager-4be34.firebaseio.com",
+    "project_id": "hostel-manager-4be34",
+    "storage_bucket": "hostel-manager-4be34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683580793211:android:d4ceca4dd1b9524e",
+        "android_client_info": {
+          "package_name": "com.example.mufasa.hostelmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683580793211-17hfd6629j9o7q6k17ochoj2ieua21cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mufasa.hostelmanager",
+            "certificate_hash": "2125baa6f204c128c0cb63afc59664b02c071635"
+          }
+        },
+        {
+          "client_id": "683580793211-e3klf2tvjiiov7i6k3opmkj9c2lhgib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1dMEYn4O68QeDb2lOZ6aN8M4NCd7h6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683580793211-e3klf2tvjiiov7i6k3opmkj9c2lhgib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
